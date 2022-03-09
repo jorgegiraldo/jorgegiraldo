@@ -9,16 +9,6 @@
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
-#### 🌱 Cosas en las que estoy trabajando actualmente:
-- Terminar mi Maestría en Ingeniería Informática  
-- Tomar cursos en línea sobre Data Science y Machine Learning
-- Prácticas comerciales en [bi4 Group Spain](https://github.com/bi4group) 🚀 *próximamente*
-
-#### :muscle: Cosas con las que me estoy desafiando:
-- Levantarse más temprano para aprovechar bien el día
-- Codificación al menos 4 horas al día.
-- Hacer ejercicio 3 días a la semana.
-- Mejorar mi CV con algo de educación aparte de la universidad.
 
 #### :computadora: Lenguajes y herramientas de programación:
 <p>
