@@ -9,9 +9,7 @@
 
 
 
-#### :computadora: Lenguajes y herramientas de prograR
-código>ancho="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></código>
-<código><img ancho="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></código>
+#### :computadora: Lenguajes y herramientas de prograR<img ancho="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></código>
 <código><img ancho="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></código>
 <br />
 <código><img ancho="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></código>
