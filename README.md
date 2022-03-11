@@ -9,10 +9,8 @@
 
 
 
-#### :computadora: Lenguajes y herramientas de programación:
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
-<código><img ancho="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></código>
+#### :computadora: Lenguajes y herramientas de prograR
+código>ancho="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></código>
 <código><img ancho="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></código>
 <código><img ancho="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></código>
 <br />
