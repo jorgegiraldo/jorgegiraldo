@@ -6,7 +6,6 @@
 
 ¡Bienvenido a mi página de Github! ¡Soy Jorge Giraldo Quintana y actualmente estoy terminando  Ingeniería de Sistemas y Computacion en la Universidad del Quindio!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 
